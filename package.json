@@ -1,0 +1,13 @@
+{
+  "name": "ashfall",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Independent legacy SmartFox protocol-compatible multiplayer server emulator",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
